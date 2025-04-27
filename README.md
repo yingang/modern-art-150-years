@@ -2,7 +2,7 @@
 
 <img src="./docs/figures/cover.jpg" style="width: 40%" />
 
-很有意思的一本关于现代艺术的书（[豆瓣介绍](https://book.douban.com/subject/26854318/)），也早有[热心网友](https://book.douban.com/review/8930999/)将书中提及的作品收集整理汇总并分享到有道云笔记等平台。
+很有意思的一本关于现代艺术的书（[豆瓣介绍](https://book.douban.com/subject/26854318/)，英文原名为 What Are You Looking At?: 150 Years of Modern Art in the Blink of an Eye），也早有[热心网友](https://book.douban.com/review/8930999/)将书中提及的作品收集整理汇总并分享到有道云笔记等平台。
 
 但原共享链接不知何故已不能访问，而且原来将所有图片在一个页面进行集中展示也不是很方便在阅读过程中进行参照，故将其按章节搬运至本项目，除本地阅读（方法见后），也可直接在我的 [GitHub Pages](https://yingang.github.io/modern-art-150-years/) 上在线阅读。
 
